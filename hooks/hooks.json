@@ -1,0 +1,8 @@
+{
+  "description": "Lifecycle hooks for the claude-tools plugin",
+  "hooks": {
+    "PreToolUse": [],
+    "PostToolUse": [],
+    "Stop": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "claude-tools",
+  "version": "0.1.0",
+  "description": "Accounting toolkit for Claude Code: bank reconciliation, expense categorization, journal entry drafting, variance analysis, and audit review.",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "https://github.com/sneakydave123/ClaudeTools",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "accounting",
+    "bookkeeping",
+    "reconciliation",
+    "audit",
+    "finance"
+  ]
+}
