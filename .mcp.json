@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "spreadsheet": {
+      "command": "uvx",
+      "args": [
+        "excel-mcp-server",
+        "stdio"
+      ]
+    }
+  }
+}
